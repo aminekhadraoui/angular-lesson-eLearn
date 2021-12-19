@@ -1,0 +1,15 @@
+img{
+    height: 250px;
+}
+.body{
+    background-color: #343a40 !important;
+}
+/* 
+:host {
+display:block;
+margin-top:60px;
+margin-left:100px;
+margin-right: 50px;
+background-color: rgb(214,
+211, 211);
+} */
